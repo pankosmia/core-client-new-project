@@ -7,15 +7,18 @@
   "i18n": {
     "title": {
       "en": "New Project",
-      "fr": "Nouveau Project"
+      "fr": "Nouveau Project",
+      "id": "Proyek Baru"
     },
     "summary": {
       "en": "Create a new project on your machine",
-      "fr": "Créer un nouveau projet sur votre machine"
+      "fr": "Créer un nouveau projet sur votre machine",
+      "id": "Membuat proyek baru di mesin ini"
     },
     "stub_content": {
       "en": "Content goes here",
-      "fr": "Le contenu se met ici"
+      "fr": "Le contenu se met ici",
+      "id": "Tempatkan konten di sini"
     }
   }
 }
